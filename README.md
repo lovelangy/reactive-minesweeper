@@ -1,15 +1,5 @@
-# reactive-snake
-
-Taming snakes with reactive streams
-
-## Overview
-
-This repo includes the source code for a series of posts on **reactive-snake**. Each part builds on top of the previous one and adds features on top. Here's a quick overview:
-
-- **Part 1**: Basic features
-- **Part 2**: Advanced features
-
-Remember, if you clone this repo you'll sit on the latest commit. There's a tag for each part that you can checkout. Alternatively, you browse through the source code on GitHub.
+# reactive-minesweeper
+Inspired by Reactive-Snake(https://github.com/thoughtram/reactive-snake)
 
 ## Install
 
