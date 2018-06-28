@@ -1,5 +1,5 @@
 # reactive-minesweeper
-Inspired by Reactive-Snake(https://github.com/thoughtram/reactive-snake)
+Demo: http://rxjs.azurewebsites.net
 
 ## Install
 
@@ -18,3 +18,6 @@ After you have installed all dependencies you can now run the app:
 Finally, open a browser and navigate to `localhost:9000`.
 
 Have fun!
+
+
+Thanks: Inspired by Reactive-Snake(https://github.com/thoughtram/reactive-snake)
